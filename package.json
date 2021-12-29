@@ -1,0 +1,21 @@
+{
+  "name": "homemockup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calopez97/HomeMockup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calopez97/HomeMockup/issues"
+  },
+  "homepage": "https://github.com/calopez97/HomeMockup#readme"
+}
